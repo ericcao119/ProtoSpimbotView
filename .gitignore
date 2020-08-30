@@ -1,0 +1,13 @@
+__pycache__/
+.mypy_cache/
+res/*
+.vscode/
+.pytest_cache/
+.Rhistory
+*.pyo
+*.pyi
+
+# Do not bloat repository with videos
+*.mp4
+*.webm
+*.mkv

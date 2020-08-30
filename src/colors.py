@@ -1,0 +1,16 @@
+from PyQt5.QtGui import QColor, QFont, QImage, QPainter, QPixmap
+
+lightred = QColor(0xC66353)
+lightblue = QColor(0x4286B8)
+lightblack = QColor(0x333333)
+time_low = QColor(0x6F72D1)
+time_mid = QColor(0xF4CE91)
+time_hig = QColor(0xCD345D)
+green = QColor(0x97CA8C)
+orange = QColor(0xFFBE61)
+darkorange = QColor(0xFF863B)
+red = QColor(0xDA7473)
+lightbrown = QColor(0xDEB887)
+darkbrown = QColor(0x8B4513)
+purple = QColor(0x800080)
+yellow = QColor(0xFFFF33)

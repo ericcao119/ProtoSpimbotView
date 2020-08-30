@@ -1,0 +1,28 @@
+Bots:
+    - !!python/object:src.types.Bot
+        id: 0
+        x: 150
+        y: 150
+        angle: 0.0
+
+
+Photons:
+    - !!python/object:src.types.Photon
+        x: 60.0
+        y: 75.0
+        color: 0
+    - !!python/object:src.types.Photon
+        x: 75.0
+        y: 60.0
+        color: 1
+
+
+Map:
+    - !!python/object:src.types.Map
+        string: ""
+
+Metrics:
+    # - PuzzleSolved:
+    - Keys: [0, 0]
+    - Score: [0, 0]
+
